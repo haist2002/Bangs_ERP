@@ -129,36 +129,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="admin-lte\css\AdminLTE.css" />
-    <Content Include="admin-lte\css\AdminLTE.min.css" />
-    <Content Include="admin-lte\css\skins\skin-black-light.css" />
-    <Content Include="admin-lte\css\skins\skin-black-light.min.css" />
-    <Content Include="admin-lte\css\skins\skin-black.css" />
-    <Content Include="admin-lte\css\skins\skin-black.min.css" />
-    <Content Include="admin-lte\css\skins\skin-blue-light.css" />
-    <Content Include="admin-lte\css\skins\skin-blue-light.min.css" />
-    <Content Include="admin-lte\css\skins\skin-blue.css" />
-    <Content Include="admin-lte\css\skins\skin-blue.min.css" />
-    <Content Include="admin-lte\css\skins\skin-green-light.css" />
-    <Content Include="admin-lte\css\skins\skin-green-light.min.css" />
-    <Content Include="admin-lte\css\skins\skin-green.css" />
-    <Content Include="admin-lte\css\skins\skin-green.min.css" />
-    <Content Include="admin-lte\css\skins\skin-purple-light.css" />
-    <Content Include="admin-lte\css\skins\skin-purple-light.min.css" />
-    <Content Include="admin-lte\css\skins\skin-purple.css" />
-    <Content Include="admin-lte\css\skins\skin-purple.min.css" />
-    <Content Include="admin-lte\css\skins\skin-red-light.css" />
-    <Content Include="admin-lte\css\skins\skin-red-light.min.css" />
-    <Content Include="admin-lte\css\skins\skin-red.css" />
-    <Content Include="admin-lte\css\skins\skin-red.min.css" />
-    <Content Include="admin-lte\css\skins\skin-yellow-light.css" />
-    <Content Include="admin-lte\css\skins\skin-yellow-light.min.css" />
-    <Content Include="admin-lte\css\skins\skin-yellow.css" />
-    <Content Include="admin-lte\css\skins\skin-yellow.min.css" />
-    <Content Include="admin-lte\css\skins\_all-skins.css" />
-    <Content Include="admin-lte\css\skins\_all-skins.min.css" />
-    <Content Include="admin-lte\js\app.js" />
-    <Content Include="admin-lte\js\app.min.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -216,6 +186,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="AdminLTE-2.4.0-rc\" />
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
