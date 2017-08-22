@@ -14,6 +14,7 @@ namespace Bangs_ERP.Controllers
         {
             string text = "HELLO JAVA";
 
+
             ViewBag.Text = text;
             return View();
         }
