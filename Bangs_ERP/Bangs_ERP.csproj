@@ -186,7 +186,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="AdminLTE-2.4.0-rc\" />
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
