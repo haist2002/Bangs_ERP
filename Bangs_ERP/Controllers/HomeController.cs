@@ -12,6 +12,7 @@ namespace Bangs_ERP.Controllers
         [HttpGet]
         public ActionResult Index()
         {
+            //
             string text = "HELLO JAVA";
 
             ViewBag.Text = text;
